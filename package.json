@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "name": "undefinedbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "PermenMD",
+  "license": "ISC",
+  "description": ""
+}
